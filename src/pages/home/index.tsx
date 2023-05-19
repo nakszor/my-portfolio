@@ -47,13 +47,13 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá meu nome é {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            Eu sou{" "}
+            Sou desenvolvedora Full Stack{" "}
               <Text as="span" type="heading1" color="brand1">
-                apaixonada por
+                apaixonada 
               </Text>{" "}
-              criar e {" "}
+              por {" "}
               <Text as="span" type="heading1" color="brand1">
-                desenvolver
+              criar e desenvolver
               </Text>{" "}
               soluções
             </Text>
