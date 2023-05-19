@@ -49,7 +49,7 @@ export const Contacts = () => {
                   Meu WhatsApp
                 </Text>
                 <Text color="grey2" type="body2">
-                  Fale comigo no WhatsApp sobre como posso facilitar o dia a dia da sua empresa 
+                  Fale comigo no WhatsApp sobre como posso ajudar sua empresa a gerar valor para o mundo 
                 </Text>
                 <Text
                   as="a"
